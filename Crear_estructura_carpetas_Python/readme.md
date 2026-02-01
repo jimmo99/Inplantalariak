@@ -52,8 +52,9 @@ text
 
 ## Autor
 
-Desarrollado por [Tu Nombre]
+Desarrollado por jimmo
 
 ---
+
 
 Este programa facilita la organización y gestión de proyectos complejos mediante una estructura clara y modular.
